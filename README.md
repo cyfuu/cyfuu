@@ -1,7 +1,7 @@
 # <p align='center'>Hi, I am Brian Joseph Aratia</p> 
 ### <p align='center'>I am studying as a BSIT student eager to learn and improve my skills in programming. </p>
 - 🌱 I’m currently learning about **Flutter Development and React**
-- 💻 You can explore my projects and work here: **[View My Portfolio](https://cyfuu.github.io/portfolio/)**
+- 💻 You can explore my projects and work here: **[View My Portfolio](https://cyfuu.github.io/)**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/brianjoseph.aratia) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyfuu.dev@gmail.com) 
